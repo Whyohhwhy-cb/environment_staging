@@ -32,7 +32,7 @@ spec:
       serviceAccountName: cjoc
       containers:
       - name: whyohhwhy-cb
-        image: gcr.io/core-workshop/helloworld-nodejs:whyohhwhy-cb-1
+        image: gcr.io/core-workshop/helloworld-nodejs:whyohhwhy-cb-2
         resources:
           requests:
             memory: "100Mi"
